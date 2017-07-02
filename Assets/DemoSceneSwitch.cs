@@ -17,8 +17,11 @@ public class DemoSceneSwitch : MonoBehaviour {
 		case 2:
 			SceneManager.LoadScene ("UnityARShadows");
 			break;
-		default:
+		case 3:
 			SceneManager.LoadScene ("UnityParticlePainter");
+			break;
+		default:
+			SceneManager.LoadScene ("BarChart");
 			break;
 		}
 	}
