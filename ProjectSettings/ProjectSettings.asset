@@ -61,7 +61,7 @@ PlayerSettings:
   allowedAutorotateToPortraitUpsideDown: 1
   allowedAutorotateToLandscapeRight: 1
   allowedAutorotateToLandscapeLeft: 1
-  useOSAutorotation: 0
+  useOSAutorotation: 1
   use32BitDisplayBuffer: 0
   disableDepthAndStencilBuffers: 0
   defaultIsFullScreen: 0
