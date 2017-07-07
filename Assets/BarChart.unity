@@ -278,10 +278,10 @@ Light:
   m_SpotAngle: 30
   m_CookieSize: 10
   m_Shadows:
-    m_Type: 1
+    m_Type: 0
     m_Resolution: 1
     m_CustomResolution: -1
-    m_Strength: 0.437
+    m_Strength: 0.182
     m_Bias: 0
     m_NormalBias: 0.52
     m_NearPlane: 0.1
